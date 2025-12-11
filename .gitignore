@@ -24,7 +24,7 @@ transformers_cache/
 
 # Jupyter
 .ipynb_checkpoints/
-*.ipynb
+.ipynb_checkpoints/
 
 # Logs
 *.log
